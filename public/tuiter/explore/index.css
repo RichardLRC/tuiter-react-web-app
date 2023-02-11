@@ -17,6 +17,13 @@
     border-color: rgb(47, 51, 54);
 }
 
+.wd-search-icon{
+    position: absolute;
+    color: darkgray;
+    padding-top: 10px;
+    padding-left: 8px;
+}
+
 .wd-search-pos{
     padding-left: 16px;
     padding-top: 16px;
@@ -31,11 +38,24 @@
     background-color: darkgray;
 }
 
+.form-control .wd-round-corners-new {
+    border-radius: 50px;
+    background-color: white;
+}
+
 .wd-input-field{
     padding-left: 30px;
     padding-top: 5px;
     padding-bottom: 5px;
     border-style: none;
+}
+
+.form-control .wd-input-field-new{
+    padding-left: 30px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-style: none;
+    border-radius: 50px;
 }
 
 .wd-text-white {
@@ -95,4 +115,39 @@
     border-radius: 20px;
     position: absolute;
     right: 16px;
+}
+
+.wd-right-padding{
+    float: right;
+    padding-right: 10px;
+}
+
+.wd-top-padding{
+    padding-top: 3px;
+}
+
+.wd-gray{
+    color: gray;
+}
+
+.wd-blue{
+    color: deepskyblue;
+}
+
+.wd-post{
+    color: rgb(110, 119, 125);
+}
+
+.wd-image{
+    border-style: none;
+    border-radius: 20px;
+    width: 80px;
+    height: 80px;
+}
+
+.wd-image-left{
+    border-style: none;
+    border-radius: 30px;
+    width: 40px;
+    height: 40px;
 }
