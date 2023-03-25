@@ -49,10 +49,10 @@ const PostItem =({bookmark =
                 </div>
 
                 <div className = "wd-padding wd-padded-left">
-                    <a href="#"><i className="wd-icon fas fa-comment"></i></a><span className = "wd-icon-number">${bookmark.comments}</span>
-                    <a href="#"><i className="wd-icon fa fa-retweet"></i></a><span className = "wd-icon-number">${bookmark.repost}</span>
-                    <a href="#"><i className="wd-icon fa fa-heart"></i></a><span className = "wd-icon-number">${bookmark.likes}</span>
-                    <a href="#"><i className="wd-icon fas fa-external-link-alt"></i></a>
+                    <a href="/#"><i className="wd-icon fas fa-comment"></i></a><span className = "wd-icon-number">${bookmark.comments}</span>
+                    <a href="/#"><i className="wd-icon fa fa-retweet"></i></a><span className = "wd-icon-number">${bookmark.repost}</span>
+                    <a href="/#"><i className="wd-icon fa fa-heart"></i></a><span className = "wd-icon-number">${bookmark.likes}</span>
+                    <a href="/#"><i className="wd-icon fas fa-external-link-alt"></i></a>
                 </div>
             </div>
         </div>
