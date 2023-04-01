@@ -1,0 +1,153 @@
+::placeholder {color: white;}
+
+.wd-whole-page{
+    background-color: black;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(47, 51, 54);
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+.wd-search{
+    padding-left: 15px;
+    padding-top: 15px;
+    border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    border-color: rgb(47, 51, 54);
+}
+
+.wd-search-icon{
+    position: absolute;
+    color: darkgray;
+    padding-top: 10px;
+    padding-left: 8px;
+}
+
+.wd-search-pos{
+    padding-left: 16px;
+    padding-top: 16px;
+    border-style: solid;
+    border-width: 1px 1px 0px 1px;
+    border-color: rgb(47, 51, 54);
+}
+
+.wd-round-corners {
+    border-radius: 50px;
+    border-color: darkgray;
+    background-color: darkgray;
+}
+
+.form-control .wd-round-corners-new {
+    border-radius: 50px;
+    background-color: white;
+}
+
+.wd-input-field{
+    padding-left: 30px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-style: none;
+}
+
+.form-control .wd-input-field-new{
+    padding-left: 30px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-style: none;
+    border-radius: 50px;
+}
+
+.wd-text-white {
+    color: white;
+}
+
+.wd-hyperlink-borders{
+    border-style: solid;
+    border-width: 0px 1px 1px 1px;
+    border-color: rgb(110, 118, 125);
+    padding-top: 16px;
+    padding-bottom: 16px;
+}
+
+.wd-border-For-you{
+    border-color:rgb(29,161,242);
+    border-style: solid;
+    border-width: 0px 0px 3px 0px;
+    padding-bottom: 12px;
+}
+
+.wd-For-you {
+    color:rgb(29,161,242);
+    font-size: 15px;
+    padding:16px;
+    text-decoration:none;
+}
+
+.wd-For-other{
+    color: rgb(110,118,125);
+    font-size: 15;
+    padding: 16px;
+    text-decoration: none;
+}
+
+.wd-post{
+    font-size: 13px;
+    color: rgb(110,118,125);
+    padding-left: 0px;
+    padding-bottom: 12px;
+    padding-top: 12px;
+    position:relative;
+}
+
+.wd-inner-padding{
+    padding: 16px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(47, 51, 54);
+}
+
+.wd-text-lightgray {
+    color: lightgray;
+}
+
+.wd-post-image{
+    border-radius: 20px;
+    position: absolute;
+    right: 16px;
+}
+
+.wd-right-padding{
+    float: right;
+    padding-right: 10px;
+}
+
+.wd-top-padding{
+    padding-top: 3px;
+}
+
+.wd-gray{
+    color: gray;
+}
+
+.wd-blue{
+    color: deepskyblue;
+}
+
+.wd-post{
+    color: rgb(110, 119, 125);
+}
+
+.wd-image{
+    border-style: none;
+    border-radius: 20px;
+    width: 80px;
+    height: 80px;
+}
+
+.wd-image-left{
+    border-style: none;
+    border-radius: 30px;
+    width: 40px;
+    height: 40px;
+}
